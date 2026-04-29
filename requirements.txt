@@ -1,0 +1,9 @@
+numpy
+torch
+torchinfo
+opencv-python
+matplotlib
+certifi
+pandas
+seaborn
+scipy
